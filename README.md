@@ -20,7 +20,7 @@
 <h3 align="center">HOW TO MEASURE</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/kedairare/size-guide/main/Adidas-Kids-Footwear-2.png">
-<img src="https://raw.githubusercontent.com/kedairare/size-guide/main/Adidas-Kids-Footwear-2.png">
+<img src="https://raw.githubusercontent.com/kedairare/size-guide/main/footchart2800x420px.jpg">
    </p>
 <p align="center">
 
