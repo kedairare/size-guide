@@ -31,6 +31,11 @@
    </p>
 <p align="center">
 
+<h3 align="center">HOW TO MEASURE</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/kedairare/size-guide/main/chest-measure.jpg">
+   </p>
+<p align="center">
 
 <h3 align="center">SHIIRT GUIDE</h3>
 <p align="center">
@@ -45,6 +50,8 @@
 <img src="https://raw.githubusercontent.com/kedairare/size-guide/main/PANTS-GUIDE.png">
    </p>
 <p align="center">
+
+
 
 
 
