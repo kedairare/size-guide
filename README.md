@@ -40,3 +40,11 @@
 
 
 
+<h3 align="center">PANTS GUIDE</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/kedairare/size-guide/main/PANTS-GUIDE.png">
+   </p>
+<p align="center">
+
+
+
