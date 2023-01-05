@@ -15,6 +15,16 @@
    </p>
 <p align="center">
 
+
+
+<h3 align="center">HOW TO MEASURE</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/kedairare/size-guide/main/Adidas-Kids-Footwear-2.png">
+<img src="https://raw.githubusercontent.com/kedairare/size-guide/main/Adidas-Kids-Footwear-2.png">
+   </p>
+<p align="center">
+
+
 https://raw.githubusercontent.com/kedairare/size-guide/main/Chart-Figure.jpg
 <h3 align="center">FIGURE GUIDE</h3>
 <p align="center">
