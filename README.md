@@ -30,3 +30,13 @@
 <img src="https://raw.githubusercontent.com/kedairare/size-guide/main/Chart-Figure.jpg">
    </p>
 <p align="center">
+
+
+<h3 align="center">SHIIRT GUIDE</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/kedairare/size-guide/main/shirt-guide.png">
+   </p>
+<p align="center">
+
+
+
