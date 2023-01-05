@@ -25,7 +25,6 @@
 <p align="center">
 
 
-https://raw.githubusercontent.com/kedairare/size-guide/main/Chart-Figure.jpg
 <h3 align="center">FIGURE GUIDE</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/kedairare/size-guide/main/Chart-Figure.jpg">
