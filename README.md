@@ -7,3 +7,10 @@
 <img src="https://raw.githubusercontent.com/kedairare/size-guide/main/size-cap.jpg">
    </p>
 <p align="center">
+
+
+<h3 align="center">SHOES SIZE</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/kedairare/size-guide/main/KASUT.png">
+   </p>
+<p align="center">
